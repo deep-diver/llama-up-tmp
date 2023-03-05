@@ -2,9 +2,10 @@
 
 https://llama-up.web.app/
 
-![image](https://user-images.githubusercontent.com/901975/222942253-4eb7b5e1-94c0-4594-8df6-eba20f67c092.png)
+<img width="1077" alt="image" src="https://user-images.githubusercontent.com/901975/222942381-e1a90204-6ad9-4e11-b21a-9de29e33217d.png">
 
-With Chatgpt showing off a ton of WOW, I open up the interface to test out Meta's LLama, where you can download the weights and spin them around. With your hard-earned credit, I'm serving 7G on a V100 ... server, and I'm just a shell, and I'm grateful to you for sharing the weights with me.
+
+With Chatgpt showing off a ton of WOW, I open up the interface to test out Meta's LLama, where you can download the weights and spin them around. With your hard-earned credit, I'm serving 7G on a V100 ... server. Sung did work on frontend side. Special thanks to XX for sharing the weights for this project.
 
 For convenience, you can save conversations in a chatgpt-like interface and rate each conversation. All data collected in this way will be anonymized and released to the public. If you want to test it, please refer to the user agreement below.
 
