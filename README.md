@@ -16,4 +16,5 @@ By using LLaMA Up, you agree to these terms.
 
 ## Known issue and tops
 * Please relogin since the user token expires in a few hours, but client does not check frequently.
+* Google login may not work in inapp brower. Please use chrome or safari in PC/mobile.
 * Remove chats if you don't want to relase the data publicly. Howeve, please try to donate your data for out community.
