@@ -10,7 +10,7 @@ With Chatgpt showing off a ton of WOW, I open up the interface to test out Meta'
 For convenience, you can save conversations in a chatgpt-like interface and rate each conversation. All data collected in this way will be anonymized and released to the public. If you want to test it, please refer to the user agreement below.
 
 ## User Agreement
-1. Liability: We don't guarantee the reliability of this system and are not liable for any damages arising from its use.
+1. Liability: We don't guarantee the reliability of this system and are not liable for any damages arising from its use. This service may discontinued without any notice.
 2. Content: When you using LLaMA Up, the messages and votes are relased publicly. You own the content but grant public a license to use it.
 By using LLaMA Up, you agree to these terms.
 
