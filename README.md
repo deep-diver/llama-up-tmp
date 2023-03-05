@@ -2,8 +2,7 @@
 
 https://llama-up.web.app/
 
-<img width="1077" alt="image" src="https://user-images.githubusercontent.com/901975/222942381-e1a90204-6ad9-4e11-b21a-9de29e33217d.png">
-
+<img width="428" alt="image" src="https://user-images.githubusercontent.com/901975/222942475-c7b1357f-8c95-49f2-a284-a09bba68cae9.png">
 
 With Chatgpt showing off a ton of WOW, I open up the interface to test out Meta's LLama, where you can download the weights and spin them around. With your hard-earned credit, I'm serving 7G on a V100 ... server. Sung did work on frontend side. Special thanks to XX for sharing the weights for this project.
 
